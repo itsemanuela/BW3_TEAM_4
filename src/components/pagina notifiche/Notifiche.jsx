@@ -1,5 +1,5 @@
 import { Col, Container, Row } from "react-bootstrap";
-import Card1SidebarSx from "../pagina home/sidebarSxHome/card1SidebarSx";
+import Card1SidebarSx from "../pagina home/sidebarSxHome/Card1SidebarSx";
 import getProfilePersonaleAction from "../../redux/actions/profileAction/profiloPersonal";
 import { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
